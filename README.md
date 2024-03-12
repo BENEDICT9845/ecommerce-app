@@ -1,6 +1,7 @@
-# Complete E-Commerce Application with React and Firebase
+# E-Commerce Application with React and Firebase
 
 This project is an e-commerce website built using React and Firebase, which are popular choices among web developers due to their flexibility, ease of use, and scalability. React, a JavaScript library for building user interfaces, is employed for the frontend, while Firebase, a Backend-as-a-Service (BaaS) platform, provides various services like authentication, real-time database, and hosting. This application showcases a comprehensive solution with seamless user experience, incorporating features such as user authentication, admin dashboard, shopping cart functionality, and more.
+#### Deployed Application: [benzkart.vercel.app](https://benzkart.vercel.app/)
 
 
 ![react-firebase](https://github.com/BENEDICT9845/ecommerce-app/assets/57481452/22ae04b5-208b-4bc2-bed3-a47015062043)
